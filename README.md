@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingcano124&label=Profile%20views&color=0e75b6&style=flat" alt="kingcano124" /> </p>
 
-- 👨‍💻 Mis proyectos [https://kingcano124.github.io/](https://kingcano124.github.io/)
+<!-- - 👨‍💻 Mis proyectos [https://kingcano124.github.io/](https://kingcano124.github.io/) -->
 
 - 📫 Contacto **davix.sevas@gail.com**
 
