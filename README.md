@@ -5,7 +5,7 @@
 
 <!-- - 👨‍💻 Mis proyectos [https://kingcano124.github.io/](https://kingcano124.github.io/) -->
 
-- 📫 Contacto **davix.sevas@gail.com**
+- 📫 Contacto **davix.sevas@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
