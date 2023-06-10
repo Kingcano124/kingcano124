@@ -32,11 +32,8 @@ Soy un desarrollador Full Stack Junior🧑‍💻, apasionado por la tecnología
 
 
 
-
 ### ✨ Acerca de mi
-Soy desarrollador Full-Stack con 1 año de experiencia
-en el desarrollo de aplicaciones empresariales utilizando las mejores
-tecnologías y herramientas de desarrollo haciendo uso de buenas prácticas.
+Soy un apasionado por la tecnología con habilidades en desarrollo web Backend (Java con Spring Framework) y Frontend (Angular Framework y JavaScript), gestión de bases de datos SQL (Oracle, MySQL y PostgreSQL), control de versiones con Git y metodologías ágiles (Scrum). Me considero una persona autodidacta y me gusta adquirir nuevos conocimientos cada día. Me encanta enfrentar retos desafiantes garantizando la calidad, sin perder el enfoque en la atención al detalle en los proyectos en los cuales participo. Me destaco por mis habilidades analíticas, capacidad para trabajar en equipo, actitud proactiva y la adecuada gestión del tiempo.
 
 
 ## 🔗 Links
